@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EpiSemble"]
 	path = EpiSemble
 	url = https://github.com/cran/EpiSemble
-	shallow = true
-	registered = true
 [submodule "metaCluster"]
 	path = metaCluster
 	url = https://github.com/cran/metaCluster
-	shallow = true
-	registered = true
