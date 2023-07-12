@@ -5,6 +5,9 @@
 [submodule "EpiSemble"]
 	path = EpiSemble
 	url = https://github.com/cran/EpiSemble
+[submodule "GB5mcPred"]
+	path = GB5mcPred
+	url = https://github.com/cran/GB5mcPred
 [submodule "metaCluster"]
 	path = metaCluster
 	url = https://github.com/cran/metaCluster
