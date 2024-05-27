@@ -8,6 +8,9 @@
 [submodule "GB5mcPred"]
 	path = GB5mcPred
 	url = https://github.com/cran/GB5mcPred
+[submodule "OpEnHiMR"]
+	path = OpEnHiMR
+	url = https://github.com/cran/OpEnHiMR
 [submodule "metaCluster"]
 	path = metaCluster
 	url = https://github.com/cran/metaCluster
